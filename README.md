@@ -22,7 +22,6 @@ Meu nome é Matheus de Souza Araujo, sou técnico em informática pelo Instituto
 - [CSS][css]
 - [Java][js]
 - [Node.js][nodejs]
-- [Express][express]
 - [Nunjucks][njk]
 - [PostgreSQL][postgresql]
 
@@ -39,7 +38,6 @@ Meu nome é Matheus de Souza Araujo, sou técnico em informática pelo Instituto
 [css]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
 [js]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 [nodejs]: https://nodejs.org/en/
-[express]: https://expressjs.com/pt-br/
 [njk]: https://mozilla.github.io/nunjucks/
 [postgresql]: https://www.postgresql.org/
 [license]: https://github.com/i-ramoss/Foodfy/blob/master/LICENSE
