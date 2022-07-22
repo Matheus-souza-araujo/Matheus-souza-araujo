@@ -20,9 +20,12 @@ Meu nome é Matheus de Souza Araujo, sou técnico em informática pelo Instituto
 #### :hammer: My development stack:
 - [HTML][html]
 - [CSS][css]
-- [Java][js]
+- [JavaScritp][js]
+- [Typescript][ts]
+- [Angular][angular]
+- [Ionic][ionic]
 - [Node.js][nodejs]
-- [Nunjucks][njk]
+- [Nest.js][nestjs]
 - [PostgreSQL][postgresql]
 
 
