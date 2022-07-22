@@ -40,7 +40,10 @@ Meu nome é Matheus de Souza Araujo, sou técnico em informática pelo Instituto
 [html]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
 [css]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
 [js]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+[ts]: https://www.typescriptlang.org/
+[angular]: https://angular.io/
+[ionic]: https://ionicframework.com/
+[nestjs]: https://nestjs.com/
 [nodejs]: https://nodejs.org/en/
-[njk]: https://mozilla.github.io/nunjucks/
 [postgresql]: https://www.postgresql.org/
 [license]: https://github.com/i-ramoss/Foodfy/blob/master/LICENSE
